@@ -1,0 +1,9 @@
+* bodge-utilities
+
+Various utilities for `bodge` library collection
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-utilities.git |
+| commit  | f888dd7                                             |
+| systems | bodge-utilities                                     |
+|---------+-----------------------------------------------------|
